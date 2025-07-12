@@ -1,0 +1,14 @@
+A tic-tac-toe game using python programming.
+An automatic setup-let CPU play.
+In place Xs and Os- we will use ! and @
+We are not implementing AI - purely a random game (not programmed to win)
+
+
+
+
+
+Implementation Planning 
+-We will have to create a main function tic_tac_toe() to start the game 
+-Function for creating an empty places on tic-tac-toe board
+-Function to check for empty places on tuc-tac-toe board-Function for randomly placing 1s and 2s on tic-tac-toe board for both the players
+-Function to evaluate the tic-tac-toe board for a WINNER or a TIE
